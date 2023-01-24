@@ -34,3 +34,11 @@ const twoSum = (nums, target) => {
 
   return pairValueIndexes.flatMap((item) => item)
 }
+
+const numsList = [2, 7, 11, 15]
+const target = 9
+
+console.log(`Nums: ${numsList}`)
+console.log(`Target: ${target}`)
+const indexes = twoSum(numsList, target)
+console.log(`Indexes: ${indexes}`)
