@@ -1,1 +1,7 @@
-# __a-leetcode-js-exercises-list
+# \_\_a-leetcode-js-exercises-list
+
+A list of Leetcode JS exercises.
+
+## Tech stack
+
+- Javascript
